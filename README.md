@@ -81,7 +81,6 @@ Once both the frontend and backend servers are running, you can interact with **
 
 8. **Responsive Experience**:
    - Enjoy a fully responsive UI, with dark purple and complementary colors, ensuring a consistent and visually appealing experience across devices.
-
 ---
 ### Contributing
 Contributions are welcome! Please fork this repository, create a new branch, and submit a pull request with your changes.

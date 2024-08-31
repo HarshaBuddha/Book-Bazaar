@@ -13,7 +13,7 @@ const BookForm = () => {
     price: 0,
     available: true,
     image_url: '',
-    quantity: 1, // Default to 1 to ensure it's available
+    quantity: 1,   // Default to 1 to ensure it's available
   });
 
   useEffect(() => {
